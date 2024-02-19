@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhaabman/OneDrive%20-%20Tietoevry/Desktop/ML_TEST/diamond_Prediction/mlprojectMLops/mlruns/0/d4afce8f9974488e9f98508082a2deda/artifacts
+end_time: 1708242568001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4afce8f9974488e9f98508082a2deda
+run_name: charming-fox-318
+run_uuid: d4afce8f9974488e9f98508082a2deda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708242560909
+status: 3
+tags: []
+user_id: jhaabman

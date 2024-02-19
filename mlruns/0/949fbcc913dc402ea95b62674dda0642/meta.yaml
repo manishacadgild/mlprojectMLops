@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhaabman/OneDrive%20-%20Tietoevry/Desktop/ML_TEST/diamond_Prediction/mlprojectMLops/mlruns/0/949fbcc913dc402ea95b62674dda0642/artifacts
+end_time: 1708242028633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 949fbcc913dc402ea95b62674dda0642
+run_name: dashing-shrike-633
+run_uuid: 949fbcc913dc402ea95b62674dda0642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708242020198
+status: 3
+tags: []
+user_id: jhaabman

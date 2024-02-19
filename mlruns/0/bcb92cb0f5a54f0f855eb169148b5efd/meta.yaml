@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhaabman/OneDrive%20-%20Tietoevry/Desktop/ML_TEST/diamond_Prediction/mlprojectMLops/mlruns/0/bcb92cb0f5a54f0f855eb169148b5efd/artifacts
+end_time: 1708242125274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcb92cb0f5a54f0f855eb169148b5efd
+run_name: industrious-cat-955
+run_uuid: bcb92cb0f5a54f0f855eb169148b5efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708242106873
+status: 3
+tags: []
+user_id: jhaabman

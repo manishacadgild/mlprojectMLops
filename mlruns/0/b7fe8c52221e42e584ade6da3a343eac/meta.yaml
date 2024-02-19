@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jhaabman/OneDrive%20-%20Tietoevry/Desktop/ML_TEST/diamond_Prediction/mlprojectMLops/mlruns/0/b7fe8c52221e42e584ade6da3a343eac/artifacts
+end_time: 1708241691680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7fe8c52221e42e584ade6da3a343eac
+run_name: brawny-koi-77
+run_uuid: b7fe8c52221e42e584ade6da3a343eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708241676424
+status: 3
+tags: []
+user_id: jhaabman
